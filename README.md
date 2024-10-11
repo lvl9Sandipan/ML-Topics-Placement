@@ -5,3 +5,5 @@
 ### ----> [SVM - Kernel Trick](https://youtu.be/OKFMZQyDROI?si=rh6HRvj6212jRXUQ)
 
 ## $$ [Decision Trees](https://medium.com/@MrBam44/decision-trees-91f61a42c724)
+
+## $$ [Ensemble Learning](https://medium.com/@sumbatilinda/ensemble-learning-in-machine-learning-bagging-boosting-and-stacking-a00c6bae971f)
