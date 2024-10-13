@@ -9,4 +9,5 @@
 ## $$ [Ensemble Learning](https://medium.com/@sumbatilinda/ensemble-learning-in-machine-learning-bagging-boosting-and-stacking-a00c6bae971f)
 ### ---> [Random Forest | Bagging](https://medium.com/@harshdeepsingh_35448/understanding-random-forests-aa0ccecdbbbb)
 ### ---> [AdaBoost | Boosting](https://medium.com/@curryrowan/adaboost-explained-92408a6713da)
+### ---> Gradient Boosting Machine(GBM) [Regression](https://medium.com/analytics-vidhya/introduction-to-the-gradient-boosting-algorithm-c25c653f826b), [Classification](https://www.digitalocean.com/community/tutorials/gradient-boosting-for-classification)
 
