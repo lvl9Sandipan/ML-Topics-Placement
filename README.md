@@ -12,3 +12,12 @@
 ### ---> Gradient Boosting Machine(GBM) [Regression](https://medium.com/analytics-vidhya/introduction-to-the-gradient-boosting-algorithm-c25c653f826b), [Classification](https://www.digitalocean.com/community/tutorials/gradient-boosting-for-classification)
 ### ---> [XGBoost](https://medium.com/@prathameshsonawane/xgboost-how-does-this-work-e1cae7c5b6cb)
 
+## $$ Missing Data Handling
+### ---> Simple Imputation (Mean, Median, Mode)
+### ---> KNN Imputation
+### ---> Random Forest Imputation
+### ---> Multivariate Imputation by Chained Equation (MICE)
+### ---> Deletion/Ignoring Mission Values
+### ---> Expectation-Maximization (EM) Algorithm
+### ---> Auto-Encoder Based Imputation (Specifically for Deep Learning or AI Research Roles)
+
