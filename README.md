@@ -12,6 +12,17 @@
 ### ---> Gradient Boosting Machine(GBM) [Regression](https://medium.com/analytics-vidhya/introduction-to-the-gradient-boosting-algorithm-c25c653f826b), [Classification](https://www.digitalocean.com/community/tutorials/gradient-boosting-for-classification)
 ### ---> [XGBoost](https://medium.com/@prathameshsonawane/xgboost-how-does-this-work-e1cae7c5b6cb)
 
+
+
+## $$ Model Evaluation
+### ---> [Confusion Matrix](https://medium.com/@nikitamalviya/confusion-matrix-870739a1ec31)
+
+
+
+
+
+
+
 ## $$ Missing Data Handling
 ### ---> Simple Imputation (Mean, Median, Mode)
 ### ---> KNN Imputation
