@@ -16,7 +16,7 @@
 
 ## $$ Model Evaluation
 ### ---> [Confusion Matrix](https://medium.com/@nikitamalviya/confusion-matrix-870739a1ec31)
-
+### ---> [ROC - AUC Curve](https://medium.com/@msong507/understanding-the-roc-auc-curve-cc204f0b3441)
 
 
 
