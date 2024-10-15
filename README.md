@@ -20,7 +20,12 @@
 
 
 
-
+# Unsupervised Learning
+## $$ Clustering
+## $$ Dimensionality Reduction
+## $$ Anomaly Detection
+## $$ Association Rule Learning
+## $$ Other Techniques
 
 
 ## $$ Missing Data Handling
