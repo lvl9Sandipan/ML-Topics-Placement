@@ -32,6 +32,8 @@
 
 # Unsupervised Learning
 ### $$ Clustering
+#### ---> [K-means Clustering](https://medium.com/@dishantkharkar9/k-means-clustering-algorithm-ce4fbcac8fb0) | [Video to visualise](https://www.youtube.com/watch?v=R2e3Ls9H_fc)
+
 ### $$ Dimensionality Reduction
 ### $$ Anomaly Detection
 ### $$ Association Rule Learning
