@@ -33,6 +33,8 @@
 # Unsupervised Learning
 ### $$ Clustering
 #### ---> [K-means Clustering](https://medium.com/@dishantkharkar9/k-means-clustering-algorithm-ce4fbcac8fb0) | [Video to visualise](https://www.youtube.com/watch?v=R2e3Ls9H_fc)
+#### ---> [Hierarchical Clustering](https://medium.com/@sachinsoni600517/mastering-hierarchical-clustering-from-basic-to-advanced-5e770260bf93)
+
 
 ### $$ Dimensionality Reduction
 ### $$ Anomaly Detection
