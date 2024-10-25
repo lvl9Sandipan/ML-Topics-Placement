@@ -37,7 +37,7 @@
 #### ---> [Density Based Spatial Clustering of Applications with Noise(DBSCAN)](https://elutins.medium.com/dbscan-what-is-it-when-to-use-it-how-to-use-it-8bd506293818)
 #### ---> [Mean Shift](https://medium.com/@kendigo.0416/understanding-patterns-with-mean-shift-clustering-in-medical-image-analysis-b3c91d1a9dae)
 
-### $$ Dimensionality Reduction
+#### ---> [Dimensionality Reduction](https://medium.com/@sachinsoni600517/mastering-hierarchical-clustering-from-basic-to-advanced-5e770260bf93)
 ### $$ Anomaly Detection
 ### $$ Association Rule Learning
 ### $$ Other Techniques
