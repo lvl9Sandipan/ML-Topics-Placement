@@ -45,7 +45,7 @@
 
 ## $$ Missing Data Handling
 ### ---> Simple Imputation (Mean, Median, Mode)
-### ---> KNN Imputation
+#### ---> [KNN Imputation](https://www.analyticsvidhya.com/blog/2020/07/knnimputer-a-robust-way-to-impute-missing-values-using-scikit-learn/)
 ### ---> Random Forest Imputation
 ### ---> Multivariate Imputation by Chained Equation (MICE)
 ### ---> Deletion/Ignoring Mission Values
