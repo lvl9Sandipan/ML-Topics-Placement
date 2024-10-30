@@ -37,7 +37,10 @@
 #### ---> [Density Based Spatial Clustering of Applications with Noise(DBSCAN)](https://elutins.medium.com/dbscan-what-is-it-when-to-use-it-how-to-use-it-8bd506293818)
 #### ---> [Mean Shift](https://medium.com/@kendigo.0416/understanding-patterns-with-mean-shift-clustering-in-medical-image-analysis-b3c91d1a9dae)
 
-#### ---> [Dimensionality Reduction](https://medium.com/@sachinsoni600517/mastering-hierarchical-clustering-from-basic-to-advanced-5e770260bf93)
+### $$ [Dimensionality Reduction](https://medium.com/@sachinsoni600517/mastering-hierarchical-clustering-from-basic-to-advanced-5e770260bf93)
+#### ---> [PCA](https://medium.com/@aptrishu/understanding-principle-component-analysis-e32be0253ef0)
+#### ---> [Kernel PCA](https://medium.com/@khwabkalra1/unleashing-the-power-of-kernel-pca-bce7f4d2923d)
+#### ---> [t-SNE (t-distributed Stochastic Neighbour Embedding)](https://medium.com/@sachinsoni600517/mastering-t-sne-t-distributed-stochastic-neighbor-embedding-0e365ee898ea)
 ### $$ Anomaly Detection
 ### $$ Association Rule Learning
 ### $$ Other Techniques
