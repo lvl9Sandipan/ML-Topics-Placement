@@ -41,6 +41,8 @@
 #### ---> [PCA](https://medium.com/@aptrishu/understanding-principle-component-analysis-e32be0253ef0)
 #### ---> [Kernel PCA](https://medium.com/@khwabkalra1/unleashing-the-power-of-kernel-pca-bce7f4d2923d)
 #### ---> [t-SNE (t-distributed Stochastic Neighbour Embedding)](https://medium.com/@sachinsoni600517/mastering-t-sne-t-distributed-stochastic-neighbor-embedding-0e365ee898ea)
+#### ---> [Linear Discriminant Analysis](https://medium.com/@gajendra.k.s/linear-discriminant-analysis-lda-8b8d0c163e08)
+#### ---> [Auto Encoders](https://medium.com/game-of-bits/what-are-autoencoders-in-deep-learning-ba802298bc70)
 ### $$ Anomaly Detection
 ### $$ Association Rule Learning
 ### $$ Other Techniques
