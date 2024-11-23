@@ -44,6 +44,7 @@
 #### ---> [Linear Discriminant Analysis](https://medium.com/@gajendra.k.s/linear-discriminant-analysis-lda-8b8d0c163e08)
 #### ---> [Auto Encoders](https://medium.com/game-of-bits/what-are-autoencoders-in-deep-learning-ba802298bc70)
 ### $$ Anomaly Detection
+#### ---> [Isolation Forest](https://medium.com/@corymaklin/isolation-forest-799fceacdda4)
 ### $$ Association Rule Learning
 ### $$ Other Techniques
 
