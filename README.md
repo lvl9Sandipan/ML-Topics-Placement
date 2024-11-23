@@ -52,7 +52,7 @@
 ### ---> Simple Imputation (Mean, Median, Mode)
 #### ---> [KNN Imputation](https://medium.com/@kyawsawhtoon/a-guide-to-knn-imputation-95e2dc496e)
 ### ---> Random Forest Imputation
-### ---> Multivariate Imputation by Chained Equation (MICE)
+### ---> [Multivariate Imputation by Chained Equation (MICE)](https://medium.com/@kunalshrm175/multivariate-imputation-by-chained-equations-mice-2d3efb063434#:~:text=The%20MICE%20algorithm%20is%20a,restoring%20completeness%20for%20comprehensive%20analysis.)
 ### ---> Deletion/Ignoring Mission Values
 ### ---> Expectation-Maximization (EM) Algorithm
 ### ---> Auto-Encoder Based Imputation (Specifically for Deep Learning or AI Research Roles)
